@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hola! 👋 soy Leonel Rodriguez</h1>
 <h3 align="center">Desarrollador backend en formación, cada commit es un aprendizaje</h3>
 
