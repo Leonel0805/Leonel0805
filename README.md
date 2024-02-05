@@ -37,7 +37,6 @@ Hola! soy Leonel, un desarrollador de Software especializado en Backend de Argen
 </div>
 
 ---
----
 
 ### 🔥 My Stats:
 
