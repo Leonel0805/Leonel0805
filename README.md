@@ -3,7 +3,7 @@
 
 ### 👩‍💻 Sobre mi:
 
-Hola! soy Leonel, un desarrollador de Software especializado en Backend de Argentina!
+Hola! soy Leonel, un desarrollador web especializado en Backend de Argentina!
 
 --- 
 
